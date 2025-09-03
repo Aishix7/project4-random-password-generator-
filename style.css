@@ -5,4 +5,27 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 90vh;
+  background-image: linear-gradient(to right, rgb(2, 2, 86), rgb(11, 113, 11));
+  font-family: sans-serif;
+}
+.p1 {
+  margin: 0;
+  color: white;
+}
+.p2 {
+  margin-top: 0;
+  padding-top: 0%;
+  color: rgb(225, 95, 216);
+  text-decoration: underline;
+}
+
+input {
+  margin-bottom: 15px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  color: white;
+  background: rgb(225, 95, 216);
+  border: none;
 }
