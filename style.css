@@ -8,13 +8,10 @@ body {
   background-image: linear-gradient(to right, rgb(2, 2, 86), rgb(11, 113, 11));
   font-family: sans-serif;
 }
-.p1 {
-  margin: 0;
+h1 {
   color: white;
 }
-.p2 {
-  margin-top: 0;
-  padding-top: 0%;
+span {
   color: rgb(225, 95, 216);
   text-decoration: underline;
 }
